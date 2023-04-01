@@ -1,0 +1,27 @@
+.card{
+
+    width: 200px;
+    height: 350px;
+    background-color: grey;
+    border-radius: 10px;
+    margin: 20px 10px;
+}
+.partTop{
+
+    width: 200px;
+    height: 250px;
+    position: relative;
+}
+
+.headerCard{
+    position: absolute;
+    width: 100px;
+    background-color: gray;
+    right: 0;
+}
+
+.line{
+    height: 3px;
+    background-color: white;
+    margin: 0px 10px;
+}
